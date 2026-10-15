@@ -1,0 +1,181 @@
+{
+  "menuItems": [
+    {
+      "text": "Save",
+      "classes": "_0d986f1c _8b9843e0 bacff651 ab463cd3 _1ff3476f e7fef05d _43b31d36 _11523cd1 _508938c3 c24aac50 f5ddbadc _46f248c1",
+      "role": "menuitem"
+    },
+    {
+      "text": "Save",
+      "classes": "_63abe882 f7a7d866 _93edc152 e1696085 _7f02b5ec _46f248c1 _8290ee9e _799d43a3 _5883b479 _7c8d80bc _15bad507 _8b9843e0 _416b190c _1eb659ff _1b608c33",
+      "role": null
+    },
+    {
+      "text": "Save",
+      "classes": "_5bf80336 _63abe882 _46f248c1 _8105b030 _799d43a3 cec40bec _7c8d80bc _15bad507 _1b608c33",
+      "role": null
+    },
+    {
+      "text": "Copy link to post",
+      "classes": "_0d986f1c _8b9843e0 bacff651 ab463cd3 _1ff3476f e7fef05d _43b31d36 _11523cd1 _508938c3 c24aac50 f5ddbadc _46f248c1",
+      "role": "menuitem"
+    },
+    {
+      "text": "Copy link to post",
+      "classes": "_63abe882 f7a7d866 _93edc152 e1696085 _7f02b5ec _46f248c1 _8290ee9e _799d43a3 _5883b479 _7c8d80bc _15bad507 _8b9843e0 _416b190c _1eb659ff _1b608c33",
+      "role": null
+    },
+    {
+      "text": "Copy link to post",
+      "classes": "_5bf80336 _63abe882 _46f248c1 _8105b030 _799d43a3 cec40bec _7c8d80bc _15bad507 _1b608c33",
+      "role": null
+    },
+    {
+      "text": "Seems like AI slop",
+      "classes": "_0d986f1c _8b9843e0 bacff651 ab463cd3 _1ff3476f e7fef05d _43b31d36 _11523cd1 _508938c3 c24aac50 f5ddbadc _46f248c1",
+      "role": "menuitem"
+    },
+    {
+      "text": "Seems like AI slop",
+      "classes": "_63abe882 f7a7d866 _93edc152 e1696085 _7f02b5ec _46f248c1 _8290ee9e _799d43a3 _5883b479 _7c8d80bc _15bad507 _8b9843e0 _416b190c _1eb659ff _1b608c33",
+      "role": null
+    },
+    {
+      "text": "Seems like AI slop",
+      "classes": "_5bf80336 _63abe882 _46f248c1 _8105b030 _799d43a3 cec40bec _7c8d80bc _15bad507 _1b608c33",
+      "role": null
+    },
+    {
+      "text": "Report post",
+      "classes": "_63abe882 f7a7d866 _93edc152 e1696085 _7f02b5ec _46f248c1 _8290ee9e _799d43a3 _5883b479 _7c8d80bc _15bad507 _8b9843e0 _416b190c _1eb659ff _1b608c33",
+      "role": null
+    },
+    {
+      "text": "Report post",
+      "classes": "_5bf80336 _63abe882 _46f248c1 _8105b030 _799d43a3 cec40bec _7c8d80bc _15bad507 _1b608c33",
+      "role": null
+    }
+  ],
+  "headerElements": [
+    {
+      "tag": "SPAN",
+      "text": "Feed post",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "https://www.linkedin.com/in/ggibrine/",
+      "ariaLabel": null
+    },
+    {
+      "tag": "A",
+      "text": "Zainab Gibrine\n\n \n • 3rd+",
+      "href": "https://www.linkedin.com/in/ggibrine/",
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "Zainab Gibrine",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "• 3rd+",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "PR Intern @ mml pr | Growth Intern @ Runway | Senior Media Management Major & Economics Minor at Howard University",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "2m •",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "https://www.linkedin.com/in/ggibrine/",
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "Follow",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "Follow",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "Follow",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "📢 HIRING NOW: Paid Adobe 2027 Solutions Consulting Analyst Internship\n\nAdobe is looking for dedicated Solutions Consulting Analyst interns to work with industry-leading experts across the Sales, Customer Success, Product, and Enterprise Architecture teams on innovative Adobe solutions, delivering tailored recommendations, impactful presentations, and dynamic product demonstrations that resonate with consumers. \n\n💻 Intern Responsibilities: \n→ Participating in customer engagements\n→ Collaborating with cross-functional partners to develop pitches + presentations\n→ Connecting customer challenges with Adobe’s solutions\n→ Building fluency in Adobe’s AI and Agentic capabilities \n→ Learning the pre-sales software business through training + apprenticeship \n→ Developing reusable materials, frameworks, and storytelling assets \n→ Researching key technical innovations and translating them into presentation-ready content\n\n✅ Qualifications\n• Enrollment in a Bachelor’s or Master’s program with a graduation date between December 2027 and June 2028\n• Keen and demonstrated interest in digital marketing, AI + agentic tech, analytics, data science, or business strategy\n• Natural storyteller who can shape technical information into digestible narratives\n• Exceptional analytical and problem-solving skills \n• Comfortable presenting live and working directly in front of consumers\n• Strong interpersonal skills \n• Strong project management skill set\n• Ability to assume leadership roles while collaborating\n• Curiosity, resourcefulness, enthusiasm, and proactivity \n• Ability to communicate complex ideas effectively\n• Ability to participate in a full-time internship between May and September 2027\n\n📍 Location: New York, NY\n💰 Pay: $25 - $30/hr\n🕰️ Timing: Full-time\n🗺️ Modality: Hybrid\n🕛 Deadline: December 11th, 2026\n\nWhere to apply and learn more 👇🏾\n1️⃣ Sign up for Runway: https://lnkd.in/gkbp4iN5\n2️⃣ Search:\n 🔎 Adobe\n 🔎 2027 Intern - Solutions Consulting Analyst\n\n#Adobe #TechInternships #DigitalMarketing #Marketing #Sales #MarketingInternships #Consulting #EarlyCareer #InternshipOpportunities\n… more",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "Adobe",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "A",
+      "text": "Adobe",
+      "href": "https://www.linkedin.com/company/adobe/",
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "Adobe",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "Runway",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "A",
+      "text": "Runway",
+      "href": "https://www.linkedin.com/company/joinrunway/",
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "Runway",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "SPAN",
+      "text": "https://lnkd.in/gkbp4iN5",
+      "href": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "A",
+      "text": "https://lnkd.in/gkbp4iN5",
+      "href": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fgkbp4iN5&urlhash=bOgR&mt=7FWKa5jq02zU7D5PLJQnAL1-rp5q22SOLw8xCz8NOh6GJXcyBFTHYonoNKAGa7kp_tXt2pCoFniMaUI59aRF4JmXprw9-iwTK_1sfw-EGzOqmLE4CjGhF-41F5c&isSdui=true",
+      "ariaLabel": null
+    }
+  ]
+}
